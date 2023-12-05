@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there%2C+I'm+Frontend+Developer" alt="Typing SVG" />
-</a>
+</a><br /><br />
 
 <span><b>My tech stack:</b></span><br /><br />
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
